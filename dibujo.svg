@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="dibujo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-64.285714"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:85.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion14"
+         style="font-size:85.33333333px;"><rect
+           id="rect16"
+           width="228.57143"
+           height="162.85715"
+           x="74.285713"
+           y="108.23397"
+           style="font-size:85.33333333px;" /></flowRegion><flowPara
+         id="flowPara18" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-76.351196"
+       y="64.166664"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         x="-76.351196"
+         y="73.822159"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g889">
+      <g
+         transform="matrix(1.1214954,0,0,1.1862746,-11.021361,-0.30205495)"
+         id="g2342">
+        <ellipse
+           style="opacity:0.95999995;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.26458332"
+           id="path10"
+           cx="50.270836"
+           cy="48.291668"
+           rx="40.443455"
+           ry="38.55357" />
+      </g>
+      <g
+         transform="matrix(1.2379394,0,0,1.2218076,59.708583,147.89585)"
+         id="g2339">
+        <g
+           transform="translate(-61.676032,-118.79355)"
+           id="g2332">
+          <flowRoot
+             transform="matrix(0.2941354,0,0,0.46872237,-5.992984,-28.677752)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none"
+             id="flowRoot24"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';fill:#00ff00;fill-opacity:1"
+               id="flowRegion26"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';fill:#00ff00;fill-opacity:1"
+                 y="105.37683"
+                 x="94.285713"
+                 height="165.71428"
+                 width="191.42857"
+                 id="rect28" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';fill:#00ff00"
+               id="flowPara30">W.E</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot835"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion837"><rect
+           id="rect839"
+           width="497.14285"
+           height="131.42857"
+           x="157.14285"
+           y="493.94824" /></flowRegion><flowPara
+         id="flowPara841"></flowPara></flowRoot>  </g>
+</svg>
